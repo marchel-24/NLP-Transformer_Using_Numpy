@@ -41,6 +41,9 @@ Proyek ini mencakup komponen-komponen utama berikut:
 | **Attention Visualization** | Menampilkan heatmap distribusi perhatian antar token. |
 | **Rotary Positional Encoding (RoPE)** | Alternatif dari sinusoidal encoding yang memperkenalkan posisi **relatif** antar token melalui rotasi vektor embedding. Dapat diaktifkan dengan parameter `use_rope=True`. |
 
+## 🔗Link Project
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e5HnVmZMd1UMPx_Xcjiqq8lTh24ZwuPT?usp=sharing)
+
 
 ## 📖References
 1. Vaswani, A., Shazeer, N., Parmar, N., et al. *“Attention Is All You Need.”*  
