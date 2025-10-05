@@ -1,4 +1,9 @@
 # NLP-Transformer_Using_Numpy
+
+**Nama:** `Marchel Rianra Glendrikho Simanjuntak`
+
+**NIM:** `22/494013/TK/54157`
+
 [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
 [![Library](https://img.shields.io/badge/Library-NumPy-orange.svg)](https://numpy.org/)
 [![Visualization](https://img.shields.io/badge/Feature-Attention%20Visualization-green.svg)]()
@@ -36,12 +41,6 @@ Proyek ini mencakup komponen-komponen utama berikut:
 | **Attention Visualization** | Menampilkan heatmap distribusi perhatian antar token. |
 | **Rotary Positional Encoding (RoPE)** | Alternatif dari sinusoidal encoding yang memperkenalkan posisi **relatif** antar token melalui rotasi vektor embedding. Dapat diaktifkan dengan parameter `use_rope=True`. |
 
-
-
-## 👨‍💻 Penulis
-
-* **Nama:** `Marchel Rianra Glendrikho Simanjuntak`
-* **NIM:** `22/494013/TK/54157`
 
 ## 📖References
 1. Vaswani, A., Shazeer, N., Parmar, N., et al. *“Attention Is All You Need.”*  
